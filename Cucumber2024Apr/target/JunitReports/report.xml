@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="22.435" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Test login functionality" name="Check login is successful with valid credentials - Example #1.1" time="12.136">
+<system-out><![CDATA[
+Given browser is open test6.................................................passed
+And user is on login page test6.............................................passed
+When user enters practice and SuperSecretPassword! test6....................passed
+And user click login button test6...........................................passed
+Then user is navigated to home page test6...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test login functionality" name="Check login is successful with valid credentials - Example #1.2" time="9.852">
+<system-out><![CDATA[
+Given browser is open test6.................................................passed
+And user is on login page test6.............................................passed
+When user enters practice and SuperSecretPassword! test6....................passed
+And user click login button test6...........................................passed
+Then user is navigated to home page test6...................................passed
+]]></system-out>
+</testcase>
+</testsuite>

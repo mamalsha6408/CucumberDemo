@@ -1,0 +1,14 @@
+StepDefinitions\TestRunner_RunWithBackground_Test10.class
+PagesFactory\LoginPagePF.class
+StepDefinitions\TestRunner.class
+Pages\LoginPagePOM.class
+StepDefinitions\LoginDemoStepsTest4.class
+StepDefinitionsHooks\loginStepsHooksTest9.class
+StepDefinitions\GoogleSearchSteps.class
+StepDefinitions\LoginDemoStepsPOMTest5.class
+StepDefinitions\TestRunner_RunWithHooks_Test9.class
+StepDefinitions\TestRunner_RunWithTags_Test7.class
+StepDefinitions\LoginDemoStepsPFTest6.class
+StepDefinitions\LoginDemoStepsTest3.class
+StepDefinitions\loginSteps.class
+StepDefinitionsBackground\BackgroundDemoSteps.class
